@@ -2,8 +2,8 @@
 This is a collaborative team project focusing on PHP and SQL, created by Larusu, Jianne Leryz, and Peter Barraquias. Special thanks to Mr. Web Designer for the front-end design inspiration: [Mr. Web Designer on YouTube](https://www.youtube.com/@MrWebDesignerAnas).
 
 ## 💻 Overview
-This project is a Database Management System centered around CRUD (Create, Read, Update, Delete) operations for an Order Management System.
-The concept is a website called "Otaku Oasis", where users can log in, browse toys, and place or update their orders using SQL-backed functionality.
+This project is a Database Management System centered around CRUD (Create, Read, Update, Delete) for an Order Management System.
+The concept is a website called "Otaku Oasis", where users can log in, browse toys, and place or update their orders using SQL functionality.
 
 ## 🔐 Features
 * User Login System: Customers can sign up, log in, and manage their orders.
