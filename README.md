@@ -13,7 +13,7 @@ The concept is a website called "Otaku Oasis", where users can log in, browse to
    - Update prices and quantities
    - Manage all existing orders
 
-## 🔧 Technologies Used
+## 🔧 Language Used
 * Front-End: HTML, CSS, and JavaScript (design inspired by Mr. Web Designer)
 * Back-End: PHP and SQL
 
